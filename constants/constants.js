@@ -1,0 +1,40 @@
+// define constants
+exports.matchaTargetAddresses = {
+  Ethereum: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  EthereumSepolia: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  Polygon: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  PolygonMumbai: "0xf471d32cb40837bf24529fcf17418fc1a4807626",
+  BSC: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  Optimism: "0xdef1abe32c034e558cdd535791643c58a13acc10",
+  Fantom: "0xdef189deaef76e379df891899eb5a00a94cbc250",
+  Celo: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  Avalanche: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  Arbitrum: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+  Base: "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+};
+exports.matchaEndpoints = {
+  Ethereum: "https://api.0x.org/",
+  EthereumSepolia: "https://sepolia.api.0x.org/",
+  Arbitrum: "https://arbitrum.api.0x.org/",
+  Avalanche: "https://avalanche.api.0x.org/",
+  Base: "https://base.api.0x.org/",
+  BSC: "https://bsc.api.0x.org/",
+  Celo: "https://celo.api.0x.org/",
+  Fantom: "https://fantom.api.0x.org/",
+  Optimism: "https://optimism.api.0x.org/",
+  Polygon: "https://polygon.api.0x.org/",
+  PolygonMumbai: "https://mumbai.api.0x.org",
+};
+exports.rpcUrls = {
+  Ethereum: "https://rpc.ankr.com/eth",
+  Polygon: "https://polygon-rpc.com/",
+  BSC: "https://bsc-dataseed.binance.org",
+  Optimism: "https://mainnet.optimism.io",
+  Fantom: "https://rpc.ankr.com/fantom/",
+  Celo: "https://rpc.ankr.com/celo",
+  Avalanche: "https://api.avax.network/ext/bc/C/rpc",
+  Arbitrum: "https://arb1.arbitrum.io/rpc",
+  Base: "https://base.drpc.org/",
+  EthereumSepolia: "https://rpc.sepolia.org",
+  PolygonMumbai: "https://rpc-mumbai.maticvigil.com/",
+};
