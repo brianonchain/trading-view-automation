@@ -1,1 +1,1 @@
-Follow the directions below to convert your Trading View alerts to trades on a CEX. The advantages of this method over using other services and you will be hosting your own server (on Heroku) and, therefore, you will not have to share any keys or password to any third party.
+Convert your Trading View alerts to trades on a CEX or DEX. Step-by-step instructions (for non-developers) provided at https://brianonchain.gitbook.io/trading-view-automation/
